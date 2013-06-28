@@ -29,8 +29,29 @@ hr{
 .greyContainer {
 background-color: #E92031;
 margin-top:5px;
+
 }
 img.me{
     height:200px;overflow-y:hidden;
     margin-top:5px;
+}
+.contentWithTitle{
+  font-weight: bold;
+
+}
+.contentWithTitle>.title{
+  padding-top: 2em;
+}
+
+
+ol.inline-li  { list-style-type:none; }
+
+ol.inline-li  li { display:inline;
+                margin-left:10px; }
+
+.aboutme>.header{
+  font-weight: bold;
+}
+.aboutme>.details{
+
 }
