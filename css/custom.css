@@ -45,9 +45,44 @@ img.me{
 
 
 ol.inline-li  { list-style-type:none; }
+ol.listwithBack
+{
+
+padding: 5px;
+}
 
 ol.inline-li  li { display:inline;
                 margin-left:10px; }
+
+ol.listwithBack li
+{background-color: blue;
+font-weight: bold;
+color: white;
+margin: 1px;
+padding: 2px 2px 2px 2px;
+border-bottom: 2px;
+border: solid;
+display: inline-block;
+border-color: #E92031;
+}
+ol.inline-li  li { display:inline;
+                margin-left:10px; }
+
+ol.listwithBackGrey li
+{
+background-color: grey;
+font-weight: bold;
+color: white;
+
+padding: 2px 2px 2px 2px;
+border-bottom: 2px;
+border: solid;
+display: block;
+width: 80%;
+background: #E92031 url(https://www.wealthcareadmin.com/participants/images/questionBubble.png) no-repeat top right;
+margin: 5px;
+}
+
 
 .aboutme>.header{
   font-weight: bold;
