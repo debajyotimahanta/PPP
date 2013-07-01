@@ -11,7 +11,9 @@ h2{
 font-szie:14px;
 }
 
-
+img.people{
+height:60px;box-shadow: 3px 3px 4px #aaa;
+}
 
 .content{
    
@@ -96,3 +98,13 @@ margin: 5px;
 .aboutme>.details{
 
 }
+td.icon{
+vertical-align: top;
+margin-right:5px;
+}
+.resultItem
+{
+padding-left: 10px;
+padding-top: 10px;
+}
+
