@@ -4,9 +4,15 @@
   background-repeat: no-repeat;
   filter: none;
 }
-h1,h3{
+h1,h2,h3,h4,h5,h6{
 color:#E92031
 }
+h2{
+font-szie:14px;
+}
+
+
+
 .content{
    
     font-weight:bold;
