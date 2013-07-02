@@ -27,8 +27,9 @@ hr{
     color:#C9C9C9;
 }
 .greyContainer {
-background-color: #E92031;
-margin-top:5px;
+background-color: #f6f6f6;
+margin-top:10px;
+box-shadow: 0px 2px 5px #ccc;
 
 }
 img.me{
